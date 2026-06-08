@@ -28,7 +28,7 @@ O projeto possui **duas versões**:
 
 ##  Preview (UIMain)
  
-  <img src="assets/sudoku-ui.png" alt="Interface Gráfica do Java Sudoku" width="500"/>
+  <img src="src/br/com/game/assets/sudoku-ui.png" alt="Interface Gráfica do Java Sudoku" width="500"/>
  
 ---
 

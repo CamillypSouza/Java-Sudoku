@@ -1,4 +1,4 @@
-package br.com.game;
+package br.com.game.util;
 
 import br.com.game.model.Board;
 import br.com.game.model.Space;
